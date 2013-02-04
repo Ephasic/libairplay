@@ -9,4 +9,3 @@
 
 #include <airsock.h>
 #include <airplay.h>
-#include <hairtunes.h>
